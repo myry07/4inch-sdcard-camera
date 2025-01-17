@@ -228,7 +228,7 @@ void lvglTask(void *param) {
     //创建灯珠
     if (led_state == 1) {
       if (led_Handle == NULL) {
-        xTaskCreate(wsTask, "ws", 1024, NULL, 0, &led_Handle);
+        xTaskCreate(wsTask, "ws", 1024 * 3, NULL, 0, &led_Handle);
       }
     }
 
