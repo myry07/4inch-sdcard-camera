@@ -2,11 +2,11 @@
 
 
 <div align=center>
-    <img src="https://github.com/myry07/4inch-sdcard-camera/blob/eef2e84c3667379b4da7cd1bf0e9e1798db315c5/03.Docs/pcb_font.png" width="200" height="250">
+    <img src="https://github.com/myry07/4inch-sdcard-camera/blob/ca8ded6e82896251871ff067bedce31dc41cabf4/03.Docs/pcb_font.png" width="200" height="250">
 </div>
 
 <div align=center>
-    <img src="https://github.com/myry07/4inch-sdcard-camera/blob/eef2e84c3667379b4da7cd1bf0e9e1798db315c5/03.Docs/pcb_reverse.png" width="200" height="250">
+    <img src="https://github.com/myry07/4inch-sdcard-camera/blob/ca8ded6e82896251871ff067bedce31dc41cabf4/03.Docs/pcb_reverse.png" width="200" height="250">
 </div>
 
 <div align=center>
