@@ -1,4 +1,4 @@
-# 4inch
+# 4inch SD Card Camera
 
 <div align=center>
 	<img src="https://github.com/myry07/4inch-sdcard-camera/blob/main/03.Docs/pcb.png" width="400" height="230">
