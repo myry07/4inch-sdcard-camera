@@ -1,7 +1,7 @@
 # 4inch
 
 <div align=center>
-	<img src="https://github.com/myry07/4inch-sdcard-camera/blob/main/03.Docs/pcb.png" width="800" height="470">
+	<img src="https://github.com/myry07/4inch-sdcard-camera/blob/main/03.Docs/pcb.png" width="400" height="230">
 </div>
 
 <div align=center>
