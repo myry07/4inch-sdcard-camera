@@ -6,9 +6,13 @@ Hello this is a camera project based on Arduino and PlatformIO. I have already c
 	<img src="https://github.com/myry07/4inch-sdcard-camera/blob/main/03.Docs/pcb.png" width="400" height="230">
 </div>
 
+When you connect the power, this is the interface you will see.
+
 <div align=center>
     <img src="https://github.com/myry07/4inch-sdcard-camera/blob/eef2e84c3667379b4da7cd1bf0e9e1798db315c5/03.Docs/start.png" width="400" height="250">
 </div>
+
+I used the LVGL framework to make this project cooler and add more features. This is a camera project—when you press the on-screen button or the onboard boot button, the photo will be saved to the SD card. You can also swipe to navigate and adjust the onboard WS LED.
     
 <div align=center>
     <img src="https://github.com/myry07/4inch-sdcard-camera/blob/eef2e84c3667379b4da7cd1bf0e9e1798db315c5/03.Docs/camera.png" width="400" height="250">
